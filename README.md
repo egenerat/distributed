@@ -1,13 +1,18 @@
 # REST-API
 Different experiments using Node.js
 
-1- Node
+## 1- Node
 
-2- Express
+## 2- Express
+```
 express my-app
-cd my-app && npm install
+cd my-app
+npm install
+```
 
-install dependencies:
+Install dependencies:
 
    run the app:
-     $ DEBUG=my-app:* npm start
+```
+$ DEBUG=my-app:* npm start
+```
